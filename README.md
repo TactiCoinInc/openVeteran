@@ -1,2 +1,2 @@
 # openVeteran
-open source repository
+open source repository for military veteran projects
